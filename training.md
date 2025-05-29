@@ -17,6 +17,13 @@ References
 - https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/
 - https://github.com/features/copilot/
 
+Just before lunch
+
+- https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/
+- https://github.com/MicrosoftLearning/AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot/blob/master/Instructions/Demos/DEMO_module1_0-prepare-sample-apps.md
+
+
+
 
 Set 1 Command list
 
