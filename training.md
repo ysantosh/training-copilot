@@ -10,3 +10,22 @@ GitHub Copilot has been proven to increase developer productivity and accelerate
 
 Notes and content for github copilot training using VS code
 
+References
+
+- https://docs.github.com/en/copilot
+- https://code.visualstudio.com/docs/copilot/overview
+- https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/
+- https://github.com/features/copilot/
+
+
+Set 1 Command list
+
+- Write a program in python to find factorial of a positive number
+- /doc or @workspace /generate docs
+- /explain or @workspace /explain
+- @ is used to provide context
+
+
+Set 2 Command List
+
+- 
